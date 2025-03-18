@@ -6998,10 +6998,10 @@ button:hover:after {
 }
 
 .lgx-header .lgx-navbar {
-    margin-bottom: 0;
     border: none;
     background: 0 0;
-    border-radius: 0
+    border-radius: 0;
+    
 }
 
 .lgx-header .lgx-navbar .container {
@@ -7235,7 +7235,7 @@ button:hover:after {
 .lgx-header .menu-onscroll .lgx-nav-right .lgx-search,
 .lgx-header-position-white .lgx-nav-right .lgx-search a,
 .lgx-header-position-white .lgx-navbar .lgx-nav li a {
-    color: #000000;
+    color: burlywood;
     font-weight: 500 ;
 }
 
@@ -7512,7 +7512,7 @@ button:hover:after {
 
     .lgx-header .lgx-nav-right .lgx-search,
     .lgx-header .lgx-navbar .lgx-nav li a {
-        color: #000000
+        color: burlywood;
     }
 
     .lgx-navbar .lgx-nav li a.lgx-btn {
@@ -7616,7 +7616,7 @@ button:hover:after {
 }
 
 .lgx-banner {
-    background: url(../img/banner\ \(2\).jpg) top center no-repeat;
+    background: url(../img/27230.jpg) top center no-repeat;
     -webkit-background-size: cover;
     -o-background-size: cover;
     -moz-background-size: cover;
@@ -7768,7 +7768,7 @@ button:hover:after {
     line-height: 16.5rem;
     line-height: 12rem;
     font-weight: 700;
-    color: #000000;
+    color: #ffffff;
     text-transform: uppercase;  
 }
 
@@ -7810,7 +7810,7 @@ button:hover:after {
 }
 
 .lgx-banner-info .location {
-    color: #000000
+    color: #ffffff
 }
 
 .lgx-banner-info-circle .info-circle-inner .date span,
@@ -7917,7 +7917,7 @@ button:hover:after {
 }
 
 .lgx-banner-info-circle .info-circle-inner .date span {
-    color: #000000;
+    color: #ffffff;
     font-size: 4.2rem;
     line-height: 6.300000000000001rem;
     display: block;
@@ -13815,7 +13815,7 @@ blockquote.lgx-testi-single:before {
     h2 {
         font-size: 4.2rem;
         line-height: 6.300000000000001rem;
-        line-height: 4.8rem
+        line-height: 6.8rem;
     }
 
     .h3,
@@ -13855,7 +13855,7 @@ blockquote.lgx-testi-single:before {
 
     .lgx-banner-info-circle {
         background: 0 0;
-        margin-right: 0;
+        margin-right: -80px;
         display: inline-block
     }
 
@@ -14155,4 +14155,6 @@ blockquote.lgx-testi-single:before {
 .lgx-logo a h1{
     color: #0061b5;
     margin-top: 0;
+    
 }
+
